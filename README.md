@@ -7,3 +7,12 @@ Aşağıdaki videomuzu izleyerek daha ayrıntılı bilgi edinebilirsiniz.
 https://user-images.githubusercontent.com/58268584/127111215-d871ab87-e81b-4a3d-a316-f10eec20c293.mp4
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/teM4MONqJj8/0.jpg)](https://img.youtube.com/vi/teM4MONqJj8/0.jpg "Robusta")
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=teM4MONqJj8">
+     <img 
+      src="https://img.youtube.com/vi/teM4MONqJj8/0.jpg" 
+      alt="Robusta" 
+      style="width:100%;">
+      </a>
+    </div>
